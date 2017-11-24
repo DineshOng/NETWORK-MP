@@ -1,5 +1,5 @@
-# NETWORKMP
+# NETWORKMP - Typing Maniac
 
-[4 Players Typing Maniac]
+Up to 4 players
 
 uses FTP
